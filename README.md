@@ -2,6 +2,8 @@
 
 Small library for multiple parties to estbalish a shared random number. Even if you are the only honest party.
 
+[Demo here](https://ali-raheem.github.io/consensus-emscripten/)
+
 Inclues a webassembly/javascript compiled version of [libtomcrypt](https://github.com/libtom/libtomcrypt).
 
 **This version is not necessarily compatible with [consensus](https://github.com/ali-raheem/consensus) or [consensus-sodium](https://github.com/ali-raheem/consensus-sodium) but all now use the blake2b-256 hash.**
